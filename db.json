@@ -1,0 +1,12 @@
+{
+  "onlinefood": [
+    {
+      "orderno": 1,
+      "customername": "John Doe",
+      "restaurant": "McDonalds",
+      "menuitems": "Burger",
+      "deliveryaddress": "123 Main St, Anytown, USA"
+     
+    }
+  ]
+}
